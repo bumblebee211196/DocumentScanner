@@ -6,20 +6,20 @@ This was possible only due to the simple and clear explanation by Adrian Rosebro
 
 ## How to run?
 
-1. Create virtual environment
+### 1. Create virtual environment
 
 ```
 python3 -m venv my_env
 source my_env/bin/activate
 ```
 
-2. Install required dependencies
+### 2. Install required dependencies
 
 ```
 pip3 install -r requirements.txt
 ```
 
-3. Execute
+### 3. Execute
 
 ```
 python3 -m scanner -i /path/to/image/file.jpg
