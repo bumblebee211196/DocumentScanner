@@ -4,7 +4,7 @@ scanner.py: A simple document scanner that accepts the Image PATH as an argument
 
 __author__ = "S Sathish Babu"
 __date__ = "10/12/20 Thursday 1:11 PM"
-__email__ = "sathish.babu@zohocorp.com"
+__email__ = "bumblebee211196@gmail.com"
 
 import argparse
 import numpy as np
